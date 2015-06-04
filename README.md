@@ -6,15 +6,13 @@ This plugin pulls in the extra data sent to the clieint and allows you to view i
 
 Usage:
 
-gmcp room:          Show the GMCP room data.
-
-gmcp exits:         View the standard 'exits' output with room ids
+    gmcp room:          Show the GMCP room data.
+    gmcp exits:         View the standard 'exits' output with room ids
 
 Setup:
 
-gmcp autoid:        Enable/Disable the room id when viewing the room.
-
-gmcp color <color>: Change the color of the GMCP output.
+    gmcp autoid:        Enable/Disable the room id when viewing the room.
+    gmcp color <color>: Change the color of the GMCP output.
 
 ##Note
 
